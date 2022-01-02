@@ -1,0 +1,9 @@
+# Project exclude paths
+/venv/
+.idea
+.mypy_cache
+package-lock.json
+package.json
+node_modules
+tests/vcr
+*.pytest_cache
