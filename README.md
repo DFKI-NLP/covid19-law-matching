@@ -1,6 +1,6 @@
 # Claim Extraction and Law Matching for COVID-19-related Legislation
 
-This is the repository for the paper `Claim retrieval and matching with laws for COVID-19 related legislation` (currently under peer-review).
+This is the repository for the paper [Claim retrieval and matching with laws for COVID-19 related legislation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.50.pdf) (LREC 2022).
 
 ## Abstract
 
@@ -174,7 +174,25 @@ e.g. `python law_scraping extract --prefix Schul`
 
 ## How to cite
 
-TODO
+Please cite [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.50.pdf) if you use our work:
+
+```bibtex
+@inproceedings{dehio2022,
+  title = {{Claim Extraction and Law Matching for COVID-19-related
+                  Legislation}},
+  author = {Niklas Dehio and Malte Ostendorff and Georg Rehm},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Nicoletta Calzolari and Frédéric Béchet and Philippe Blache
+                  and Christopher Cieri and Khalid Choukri and Thierry
+                  Declerck and Hitoshi Isahara and Bente Maegaard and Joseph
+                  Mariani and Jan Odijk and Stelios Piperidis},
+  booktitle = {Proceedings of the 13th Language Resources and Evaluation
+                  Conference (LREC~2022)},
+  year = 2022,
+  month = 6,
+  address = {Marseille, France},
+}
+```
 
 ## License
 
